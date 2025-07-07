@@ -1,3 +1,7 @@
+
+
+
+
 #CIPHER-MD V2
 
 <img align="center" height="auto"
@@ -8,21 +12,21 @@ src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu
 
    </p>
 <p align="center">
-<a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/OfficialCiphertech"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
-<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
+<a href="https://github.com/OfficialCiphertech/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialCiphertech?color=purple&style=flat-square"></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialCiphertech/CIPHER-MD-V2?color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialCiphertech/CIPHER-MD-V2?color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialCiphertech/CIPHER-MD-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialCiphertech/CIPHER-MD-V2?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD-LITE&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialCiphertech%2FCIPHER-MD-V2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD-LITE}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{CIPHER-MD-V2}/count.svg" alt="OfficialCiphertech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialCiphertech}/count.svg" /></p>
 <p align="center">
 <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KANGO-XMD-LITE&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=CIPHER-MD-V2&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
   <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
@@ -40,8 +44,14 @@ src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu
 Click the button below to fork CIPHER-MD-V2 Repository to your GitHub account:
 
   <br>
-    <p align="left">
-  <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/fork"><img title="CIPHER-MD-V2" src="https://img.shields.io/badge/FORK-CIPHER-MD-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+   <div align="center">
+
+## � Quick Fork Link
+
+[![Fork Now](https://img.shields.io/badge/🚀_Fork_Now-CIPHER_MD_V2-important?style=flat-square&logo=git&logoColor=white)](https://github.com/OfficialCiphertech/CIPHER-MD-V2/fork)
+
+_Click above to create your own copy!_
+</div>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -56,7 +66,7 @@ Click the button below to fork CIPHER-MD-V2 Repository to your GitHub account:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="left">
-  <a href="https://kango-pair-site-oqi8.onrender.com/pair?">
+  <a href="https://kango-pair-ste-oqi8.onrender.com/pair?">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20SECOND%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
@@ -64,7 +74,7 @@ Click the button below to fork CIPHER-MD-V2 Repository to your GitHub account:
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FCIPHER-MD-V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialCiphertech%2FCIPHER-MD-V2) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -142,9 +152,9 @@ Click the button below to fork CIPHER-MD-V2 Repository to your GitHub account:
 5. `Unarchieve` the uploaded zip file.
 6. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
 7. Now go to `console` and `start` bot.
-8. Wait for `5-10 mins` to enter your number.
-9. Enter your number when requested to get the pair code.
-10. Enter pair code in link devices in whatsapp.
+8. Wait for `5-10 mins` to get your pairing code RAGEMODS.
+9. 
+10. Enter pair code RAGEMODS in link devices in whatsapp.
 11. Deployment successful.
 </details>
  
@@ -202,7 +212,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 ## Credits
 
-- [Hector](https://github.com/OfficialKango)
+- [HACKERPRO](https://github.com/OfficialCiphertech)
 - [Baileys](https://github.com/WhiskeySockets)
 - [Matrix](https://github.com/Matri199)
 
