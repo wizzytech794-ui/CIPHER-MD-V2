@@ -5,7 +5,7 @@
 <img align="center" height="auto"
 src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=C+I+P+H+E+R+M+D+V+2▇++BY+H+A+C+K+E+R+P+R+O.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=C+I+P+H+E+R+M+D+V2▇++BY+H+A+C+K+E+R+P+R+O.)](https://git.io/typing-svg)
 <br>
 
    </p>
