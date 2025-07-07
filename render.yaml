@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: CIPHER-MD-V2-BOT
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 3000
+    plan: free
+    healthCheckPath: /
