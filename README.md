@@ -1,11 +1,9 @@
-# CIPHER-MD-V2
-
-
+#CIPHER-MD V2
 
 <img align="center" height="auto"
 src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu6gix_1751855851903.jpg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=C+I+P+H+E+R+M+D+V2▇++BY+H+A+C+K+E+R+P+R+O.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=C+I+P+H+E+R+M+D+V2++BY+H+A+C+K+E+R+P+R+O.)](https://git.io/typing-svg)
 <br>
 
    </p>
@@ -33,17 +31,17 @@ src="https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/fu
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `KANGO-XMD INSTALLATION`
+## 🛠️ `CIPHER-MD-V2 INSTALLATION`
 
 
 
 1. Fork and star this repo first
 
-Click the button below to fork KANGO-XMD Repository to your GitHub account:
+Click the button below to fork CIPHER-MD-V2 Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/OfficialCiphertech/CIPHER-MD-V2/fork"><img title="CIPHER-MD-V2" src="https://img.shields.io/badge/FORK-CIPHER-MD-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -66,7 +64,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 
 ## `DEPLOYMENTS`
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD-LITE) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FCIPHER-MD-V2) 
 
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -83,7 +81,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` KANGO-XMD Repository or `sync` if you had forked.
+* `Fork` CIPHER-MD-V2 Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -94,7 +92,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search KANGO-XMD, and connect.
+* Search CIPHER-MD-V2, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -165,7 +163,7 @@ Click the button below to fork KANGO-XMD Repository to your GitHub account:
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
 git clone https://github.com/OfficialCiphertech/CIPHER-MD-V2.git
-cd KANGO-XMD 
+cd CIPHER-MD-V2 
 npm start
 ```
 
@@ -181,14 +179,14 @@ sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
 git clone https://github.com/OfficialCiphertech/CIPHER-MD-V2.git
-cd KANGO-XMD
+cd CIPHER-MD-V2
 npm install
 npm start
 ```
 
 ## `FOR TERMUX`
 ```bash
-pkg update && pkg upgrade -y && apt-get install -y bash libwebp git nodejs ffmpeg wget imagemagick && git clone https://github.com/OfficialCiphertech/CIPHER-MD-V2 && cd KANGO-XMD && npm install && npm start
+pkg update && pkg upgrade -y && apt-get install -y bash libwebp git nodejs ffmpeg wget imagemagick && git clone https://github.com/OfficialCiphertech/CIPHER-MD-V2 && cd CIPHER-MD-V2 && npm install && npm start
 ```
 
 ## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
@@ -214,7 +212,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© KANGO Bot**
+**© CIPHER-MD V2 Bot**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
