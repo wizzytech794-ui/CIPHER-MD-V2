@@ -150,10 +150,10 @@ _Click above to create your own copy!_
 3. Click on the green `Code` button and click `download as zip`.
 4. `Upload` the script zip file to your `panel`.
 5. `Unarchieve` the uploaded zip file.
-6. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
-7. Now go to `console` and `start` bot.
-8. Wait for `5-10 mins` to get your pairing code RAGEMODS.
-9. 
+6. Enter your `phone number` in the `User.js` file 
+7. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
+8. Now go to `console` and `start` bot.
+9. Wait for `5-10 mins` to get your pairing code RAGEMODS.
 10. Enter pair code RAGEMODS in link devices in whatsapp.
 11. Deployment successful.
 </details>
