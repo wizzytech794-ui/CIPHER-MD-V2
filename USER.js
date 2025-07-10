@@ -1,4 +1,4 @@
-const pairNumber = "233557488116";
+const pairNumber = "enter your phone number here";
 
 const accNumber = "0557488116"
 
